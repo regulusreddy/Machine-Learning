@@ -1,7 +1,9 @@
 # Machine-Learning
 ## ML algorithms from Scratch
 
-### Principal Component Analysis
+'''
+Principal Component Analysis
+'''
 ### Linear Discriminant Analysis from scratch and using Sklearn
 ### PCA vs LDA
 ### Linear Regression from scratch and using Sklearn
